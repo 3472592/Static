@@ -1,0 +1,17 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\bin\Debug\net6.0-windows\StaticPractice.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\bin\Debug\net6.0-windows\StaticPractice.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\bin\Debug\net6.0-windows\StaticPractice.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\bin\Debug\net6.0-windows\StaticPractice.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\bin\Debug\net6.0-windows\StaticPractice.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.Form1.resources
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.csproj.GenerateResource.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\refint\StaticPractice.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\StaticPractice.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch3\StaticPractice\obj\Debug\net6.0-windows\ref\StaticPractice.dll
